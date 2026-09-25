@@ -1,5 +1,5 @@
 export class Jugador {
-  constructor() {
-    
+  constructor(nombre) {
+    this.nombre = nombre;
   }
 }
